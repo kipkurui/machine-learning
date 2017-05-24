@@ -2,3 +2,5 @@
 ~*
 *.pyc
 __MACOSX/
+intro_to_machine_learning/data/loans_details.csv
+
